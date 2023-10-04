@@ -4,6 +4,7 @@
 
 <template>
   <header>
+    <h1>teste</h1>
   </header>
 
   <main>
@@ -13,6 +14,8 @@
     <h1 class="text-3xl font-bold underline">
     Hello world!
     </h1>
+
+    <router-view></router-view>
   </div>
 
 </template>

@@ -13,7 +13,8 @@
     "@tinymce/tinymce-vue": "^5.1.1",
     "@vueform/vueform": "^1.4.2",
     "firebase": "^10.4.0",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
     "@tsconfig/node18": "^18.2.2",
